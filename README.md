@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
-    Hi, I'm Abdullah 👨‍💻
+    Hi, I'm Abdullah 👋👨‍💻
     <a href="https://www.linkedin.com/in/abd-zero/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </h1>
 </div>
@@ -12,18 +12,19 @@
 
 ### 🚀 About Me
 
-Hey, I'm Abdullah! A backend developer passionate about building robust systems that run seamlessly. My expertise lies at the intersection of **System Architecture, Project Engineering, DevOps, Machine Learning, and Agentic AI**.
-
-I thrive on solving complex problems and making people's lives easier with digital solutions. I also love sharing my knowledge with others and am always building something new for fun.
+Hey, I'm Abdullah! I work with backend development, making sure systems run properly. My expertise are in System Architecture, Project Engineering, DevOps, Machine Learning, and Agentic AI. 
+I also love sharing my knowledge with others, building projects for fun and making people's lives easier with digital solutions.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
-Here are some of the technologies I'm proficient in:
+| **Languages** | C, C++, C#, Java, Kotlin, Python, JavaScript, SQL |
+|---------------|--------------------------------------------------|
+| **AI/ML** | TensorFlow, PyTorch, YOLO, LangChain, RAG |
+| **Backend** | Flask, FastAPI, NodeJS, REST APIs |
+| **Databases** | MySQL, PostgresSQL, MongoDB, Firebase, Qdrant |
+| **Cloud & DevOps**| AWS, Google Cloud, DigitalOcean, Docker, Vercel, Git |
+| **Tools** | Android Studio, Linux, Wireshark, Splunk, Twilio, Telnyx |
 
-- **Languages:** `Python`, `Java`, `C++`
-- **AI & Machine Learning:** `TensorFlow`, `Deep Learning`, `scikit-learn`, `ONNX`
-- **Backend & DevOps:** `Flask`, `Docker`, `Linux`
-- **Cloud & Platforms:** `Vercel`
-- **Other Tools:** `Git`, `Wireshark`
+---
