@@ -23,5 +23,5 @@ I also love sharing my knowledge with others, building projects for fun and maki
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero-abd&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero-abd&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
