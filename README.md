@@ -13,7 +13,7 @@ Hey, I'm Abdullah! I work with backend development, making sure systems run prop
 I also love sharing my knowledge with others, building projects for fun and making people's lives easier with digital solutions.
 
 ### 🛠️ Tech Stack
-|---------------|--------------------------------------------------|
+|:---|:---|
 | **Languages** | C, C++, C#, Java, Kotlin, Python, JavaScript, SQL |
 | **AI/ML** | TensorFlow, PyTorch, YOLO, LangChain, RAG |
 | **Backend** | Flask, FastAPI, NodeJS, REST APIs |
