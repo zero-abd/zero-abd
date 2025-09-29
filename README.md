@@ -8,8 +8,6 @@
 
 ### CS & Maths @ Texas Tech University • Founding Engineer @ Yobo AI
 
----
-
 ### 🚀 About Me
 
 Hey, I'm Abdullah! I work with backend development, making sure systems run properly. My expertise are in System Architecture, Project Engineering, DevOps, Machine Learning, and Agentic AI. 
@@ -20,7 +18,6 @@ I also love sharing my knowledge with others, building projects for fun and maki
 ### 🛠️ Tech Stack
 
 | **Languages** | C, C++, C#, Java, Kotlin, Python, JavaScript, SQL |
-|---------------|--------------------------------------------------|
 | **AI/ML** | TensorFlow, PyTorch, YOLO, LangChain, RAG |
 | **Backend** | Flask, FastAPI, NodeJS, REST APIs |
 | **Databases** | MySQL, PostgresSQL, MongoDB, Firebase, Qdrant |
@@ -33,5 +30,4 @@ I also love sharing my knowledge with others, building projects for fun and maki
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero-abd&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zero-abd&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
