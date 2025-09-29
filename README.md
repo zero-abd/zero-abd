@@ -6,8 +6,6 @@
   </h1>
 </div>
 
-### CS & Maths @ Texas Tech University • Founding Engineer @ Yobo AI
-
 ### 🚀 About Me
 Hey, I'm Abdullah! I work with backend development, making sure systems run properly. My expertise are in System Architecture, Project Engineering, DevOps, Machine Learning, and Agentic AI. 
 I also love sharing my knowledge with others, building projects for fun and making people's lives easier with digital solutions.
@@ -21,7 +19,3 @@ I also love sharing my knowledge with others, building projects for fun and maki
 | **Cloud & DevOps**| AWS, Google Cloud, DigitalOcean, Docker, Vercel, Git |
 | **Tools** | Android Studio, Linux, Wireshark, Splunk, Twilio, Telnyx |
 
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero-abd&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
