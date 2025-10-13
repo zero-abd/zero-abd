@@ -1,9 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
-    Abdullah Al Mahmud👋
-    <a href="https://www.linkedin.com/in/abd-zero/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </h1>
+  <h1>
+    Abdullah Al Mahmud👋
+    <a href="https://www.linkedin.com/in/abd-zero/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://abdullahalmahmud.me/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  </h1>
 </div>
 
 ### 🚀 About Me
